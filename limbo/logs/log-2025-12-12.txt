@@ -34,3 +34,11 @@
 14:27:27.073 INFO  Limbo -- Player RDX disconnected
 15:09:52.041 INFO  Limbo -- Starting server...
 15:09:52.988 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
+15:11:33.300 INFO  Limbo -- Player Ehe connected (/127.0.0.1:59234) [V1_12_2]
+15:11:49.818 INFO  Limbo -- Player Ehe disconnected
+15:12:54.855 INFO  Limbo -- Unknown command. Type "help" to get commands list
+15:12:57.075 INFO  Limbo -- Unknown command. Type "help" to get commands list
+15:14:24.441 INFO  Limbo -- Stopping server...
+15:14:24.442 INFO  Limbo -- Server stopped, Goodbye!
+15:14:40.226 INFO  Limbo -- Starting server...
+15:14:40.945 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
